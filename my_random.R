@@ -1,4 +1,5 @@
 # generate n random number with significant variance v and to certain sum s
+# uses uniform distribution with v variable defining max as how far it can be from average
 
 randtrans <- function  (s, n, v=3)
 {
