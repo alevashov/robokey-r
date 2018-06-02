@@ -1,5 +1,5 @@
 # emulation of money management for small business, optimisation of interest rate earned
-
+# just 2 accounts here - saving with some interest and checking with very low or no interest
 
 require(timeDate)
 require(lubridate)
